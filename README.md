@@ -24,32 +24,32 @@
 
 - Para começar a desenvolver...
 
-> certifique-se de que o ropositório está atualizado `git pull origin master`
+- certifique-se de que o ropositório está atualizado `git pull origin master`
 
-> Instale todas as dependências
+- Instale todas as dependências
 
 ```shell
 $ yarn
 ```
 
-> Crie um branch para desenvolver uma nova feature
+- Crie um branch para desenvolver uma nova feature
 ```shell
 $ git checkout -b [nome_do_branch]
 ```
 
-> Commit e push 
+- Commit e push 
 ```shell
 $ git add .
 $ git commit -m "Descreva as mudanças que serão implementadas"
 $ git push origin [nome_do_branch]
 ```
 
-> Abra um pull request e solicite a aprovação de um dos outros contribuidores
+- Abra um pull request e solicite a aprovação de um dos outros contribuidores
 ---
 
 ## Features
 
-vamos descrever nossa solução aqui
+> vamos descrever nossa solução aqui
 
 ---
 
