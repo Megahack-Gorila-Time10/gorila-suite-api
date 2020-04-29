@@ -18,7 +18,7 @@
 
 ### Clone
 
-- Clone este repositório no seu computador usando `https://github.com/gzsig/gorila-suit-api.git`
+- Clone este repositório no seu computador usando `https://github.com/Megahack-Gorila-Time10/gorila-suit-api.git`
 
 ### Setup
 
