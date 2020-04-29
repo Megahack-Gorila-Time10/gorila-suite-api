@@ -1,4 +1,4 @@
-# Gorilla Suit
+# Gorila Suit
 
 > MEGA HACK – Entregável
 
