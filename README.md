@@ -18,7 +18,7 @@
 
 ### Clone
 
-- Clone este repositório no seu computador usando `https://github.com/gzsig/gorilla-suit.git`
+- Clone este repositório no seu computador usando `https://github.com/gzsig/gorila-suit-api.git`
 
 ### Setup
 
