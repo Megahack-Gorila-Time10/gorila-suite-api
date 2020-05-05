@@ -21,7 +21,7 @@ Atualmente o processo de ganho de escala da carteira de clientes se alavanca mui
 
 | <a href="https://www.linkedin.com/in/felipebuniac/" target="_blank">**Felipe Buniac**</a> | <a href="https://www.linkedin.com/in/gzsig/" target="_blank">**Gabriel Zsigmond**</a> | <a href="https://www.linkedin.com/in/matheusdmd/" target="_blank">**Matheus Marotzke**</a> |
 | :---: |:---:| :---:|
-| [![Felipe](https://avatars0.githubusercontent.com/u/11540140?s=460&u=d9f0b50572450a5b7418f4381584b3b5c487bc4b&v=4s=100)](https://github.com/Megahack-Gorila-Time10/gorila-suite-api)    | [![Gabriel](https://avatars0.githubusercontent.com/u/45796046?s=460&u=0c756f32e5b3554fc112a7713b6421ba8e4edac0&v=4&s=100)](https://github.com/Megahack-Gorila-Time10/gorila-suite-api) | [![Matheus](https://avatars3.githubusercontent.com/u/11445689?s=460&u=15f9cb77220720df6aa502dd104283fde38715fb&v=4s=100)](https://github.com/Megahack-Gorila-Time10/gorila-suite-api)  |
+| [![Felipe](https://avatars0.githubusercontent.com/u/11540140?s=460&u=d9f0b50572450a5b7418f4381584b3b5c487bc4b&v=4s=100)](https://www.linkedin.com/in/felipebuniac/)    | [![Gabriel](https://avatars0.githubusercontent.com/u/45796046?s=460&u=0c756f32e5b3554fc112a7713b6421ba8e4edac0&v=4&s=100)](https://www.linkedin.com/in/gzsig/) | [![Matheus](https://avatars3.githubusercontent.com/u/11445689?s=460&u=15f9cb77220720df6aa502dd104283fde38715fb&v=4s=100)](https://www.linkedin.com/in/matheusdmd/)  |
 | <a href="https://github.com/febuniac" target="_blank">`https://github.com/febuniac`</a> | <a href="https://github.com/gzsig" target="_blank">`https://github.com/gzsig`</a> | <a href="https://github.com/MatheusDMD" target="_blank">`https://github.com/MatheusDMD`</a> |
 
 
